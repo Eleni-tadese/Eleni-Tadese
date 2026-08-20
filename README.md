@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=200&section=header&text=Eleni%20Tadese&fontSize=50&fontColor=E3FF59&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18&descColor=E3FF59" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=200&section=header&text=Eleni%20Tadese&fontSize=50&fontColor=E3FF59&fontAlignY=35&desc=Software%20Developer%20-%20Full%20Stack%20Engineer%20-%20AI%20%26%20Open%20Source%20Contributor&descAlignY=55&descSize=16&descColor=E3FF59" width="100%"/>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=E3FF59&center=true&vCenter=true&width=600&lines=Building+intelligent%2C+scalable+web+systems;AI%2FML+%2B+Full+Stack+Engineering;Open+Source+Contributor;2nd+Place+%E2%80%94+AGT-HUB+Hackathon+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E3FF59&background=0F0F0F&center=true&vCenter=true&width=650&height=70&lines=Building+intelligent%2C+scalable+web+systems;AI%2FML+%2B+Full+Stack+Engineering;Open+Source+Contributor;2nd+Place+%E2%80%94+AGT-HUB+Hackathon+2026" alt="Typing SVG" />
 
 </div>
 
