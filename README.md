@@ -45,8 +45,7 @@ Evaluation workflows, OCR systems, ML for local languages
 **🌱 Learning**
 Advanced ML, cloud architecture, systems design
 
-**🏆 Achievement**
-2nd Place — AGT-HUB Hackathon 2026
+
 
 </td>
 </tr>
@@ -66,13 +65,13 @@ Advanced ML, cloud architecture, systems design
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" />
 
 <br/><br/>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,&theme=dark" />
 
 <br/><br/>
 
@@ -90,19 +89,19 @@ Advanced ML, cloud architecture, systems design
 <tr>
 <td width="33%" valign="top">
 
-### 🔤 Amharic OCR System
+###  Amharic OCR System
 Deep learning pipeline for recognizing Amharic characters — dataset prep, CNN/CNN-RNN training, and a full computer vision pipeline.
 
 </td>
 <td width="33%" valign="top">
 
-### 🏆 AGT-HUB Hackathon 2026
+###  AGT-HUB Hackathon 2026
 2nd place finish — [view the repo](https://github.com/AGT-HUB-ASTU-Gibi-Gubaie/hackathon-2026-HIRUY). Built collaboratively under time pressure with a small team.
 
 </td>
 <td width="33%" valign="top">
 
-### 🌐 Full Stack Applications
+###  Full Stack Applications
 Modern apps built with React/Next.js, Node.js/Django, REST APIs, and PostgreSQL/MongoDB.
 
 </td>
