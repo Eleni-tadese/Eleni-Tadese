@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=200&section=header&text=Eleni%20Tadese&fontSize=50&fontColor=E3FF59&fontAlignY=35&desc=Software%20Developer%20-%20Full%20Stack%20Engineer%20-%20AI%20%26%20Open%20Source%20Contributor&descAlignY=55&descSize=16&descColor=E3FF59" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=200&section=header&text=Eleni%20Tadese&fontSize=50&fontColor=E3FF59&fontAlignY=35&desc=Software%20Developer%20-%20Full%20Stack%20Engineer%20-%20AI%20and%20Open%20Source%20Contributor&descAlignY=55&descSize=16&descColor=E3FF59" width="100%"/>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E3FF59&background=0F0F0F&center=true&vCenter=true&width=650&height=70&lines=Building+intelligent%2C+scalable+web+systems;AI%2FML+%2B+Full+Stack+Engineering;Open+Source+Contributor;2nd+Place+%E2%80%94+AGT-HUB+Hackathon+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?weight=500&size=20&duration=3000&pause=800&color=E3FF59&background=0F0F0F&center=true&vCenter=true&width=650&height=70&lines=Building+intelligent%2C+scalable+web+systems;AI%2FML+%2B+Full+Stack+Engineering;Open+Source+Contributor;2nd+Place+%E2%80%94+AGT-HUB+Hackathon+2026" alt="Typing SVG" />
 
 </div>
 
@@ -86,17 +86,6 @@ Advanced ML, cloud architecture, systems design
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/AGT-HUB-ASTU-Gibi-Gubaie/hackathon-2026-HIRUY">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=AGT-HUB-ASTU-Gibi-Gubaie&repo=hackathon-2026-HIRUY&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=E3FF59&text_color=E3FF59&icon_color=E3FF59" />
-</a>
-<a href="https://github.com/Eleni-tadese">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Eleni-tadese&repo=REPO_NAME_2&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=E3FF59&text_color=E3FF59&icon_color=E3FF59" />
-</a>
-
-</div>
-
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -107,14 +96,14 @@ Deep learning pipeline for recognizing Amharic characters — dataset prep, CNN/
 </td>
 <td width="33%" valign="top">
 
-### 🌐 Full Stack Applications
-Modern apps built with React/Next.js, Node.js/Django, REST APIs, and PostgreSQL/MongoDB.
+### 🏆 AGT-HUB Hackathon 2026
+2nd place finish — [view the repo](https://github.com/AGT-HUB-ASTU-Gibi-Gubaie/hackathon-2026-HIRUY). Built collaboratively under time pressure with a small team.
 
 </td>
 <td width="33%" valign="top">
 
-### 🤝 Open Source
-GitHub workflow experience — pull requests, issue-based development, and collaborative coding.
+### 🌐 Full Stack Applications
+Modern apps built with React/Next.js, Node.js/Django, REST APIs, and PostgreSQL/MongoDB.
 
 </td>
 </tr>
