@@ -1,107 +1,144 @@
-<h1 align="center">Hi 👋, I'm Eleni Tadese</h1>
-<h3 align="center">Software Developer · Full Stack · AI/ML</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=200&section=header&text=Eleni%20Tadese&fontSize=50&fontColor=E3FF59&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18&descColor=E3FF59" width="100%"/>
 
-### 🧠 About Me
+<br/>
 
-I'm a passionate Full Stack Developer with a growing focus on AI/ML, dedicated to building web applications and intelligent systems that make a real difference. I love turning complex problems into clean, efficient, and scalable solutions.
+<a href="https://www.linkedin.com/in/eleni-tadese-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F0F0F?style=for-the-badge&logo=linkedin&logoColor=E3FF59" />
+</a>
+<a href="https://leetcode.com/u/Eleni-tadese/">
+  <img src="https://img.shields.io/badge/LeetCode-0F0F0F?style=for-the-badge&logo=leetcode&logoColor=E3FF59" />
+</a>
+<a href="https://codeforces.com/profile/elenitadese">
+  <img src="https://img.shields.io/badge/Codeforces-0F0F0F?style=for-the-badge&logo=codeforces&logoColor=E3FF59" />
+</a>
+<a href="mailto:elenitade1221@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=E3FF59" />
+</a>
 
-- 🔭 **Currently working on:** Full-stack web apps and AI/ML models that solve real-world problems
-- 🌱 **Learning:** Advanced machine learning techniques and cloud-based architectures
-- 🏆 **Achievement:** Hackathon Finalist — 2nd Place, AGT-HUB Hackathon 2026
-- 💡 **Interests:** Clean code, performance optimization, open-source collaboration, and AI for local languages
-- 📫 **How to reach me:** <a href="mailto:elenitade1221@gmail.com" target="_blank" rel="noopener noreferrer">elenitade1221@gmail.com</a>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=E3FF59&center=true&vCenter=true&width=600&lines=Building+intelligent%2C+scalable+web+systems;AI%2FML+%2B+Full+Stack+Engineering;Open+Source+Contributor;2nd+Place+%E2%80%94+AGT-HUB+Hackathon+2026" alt="Typing SVG" />
 
-### 🔗 Connect with me
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/eleni-tadese-/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Eleni-tadese/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/elenitadese" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
-  </a>
-  <a href="mailto:elenitade1221@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="28" width="40" />
-  </a>
-</p>
+<br/>
 
----
+## About
 
-### 🛠️ Languages and Tools
+I'm a Full Stack Developer with a growing focus on AI/ML — building web applications and intelligent systems that solve real problems, and turning complex ideas into clean, scalable solutions through open-source collaboration.
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🔭 Currently building**
+Full-stack web apps, AI-powered systems, and scalable software
 
-### 📊 GitHub Stats
+**🤖 AI focus**
+Evaluation workflows, OCR systems, ML for local languages
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Eleni-tadese&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+**🌱 Learning**
+Advanced ML, cloud architecture, systems design
 
-### 📈 GitHub Analytics
+**🏆 Achievement**
+2nd Place — AGT-HUB Hackathon 2026
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eleni-tadese&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eleni-tadese&theme=tokyonight" alt="Repos per language" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eleni-tadese&theme=tokyonight" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eleni-tadese&theme=tokyonight&utcOffset=3" alt="Productive time" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eleni-tadese&theme=tokyonight" alt="Profile details" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-✨ *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.*
+## Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi&theme=dark" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+
+<br/><br/>
+
+**AI / ML & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,py,cpp,git,github,docker,postman,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/AGT-HUB-ASTU-Gibi-Gubaie/hackathon-2026-HIRUY">
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=AGT-HUB-ASTU-Gibi-Gubaie&repo=hackathon-2026-HIRUY&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=E3FF59&text_color=E3FF59&icon_color=E3FF59" />
+</a>
+<a href="https://github.com/Eleni-tadese">
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Eleni-tadese&repo=REPO_NAME_2&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=E3FF59&text_color=E3FF59&icon_color=E3FF59" />
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔤 Amharic OCR System
+Deep learning pipeline for recognizing Amharic characters — dataset prep, CNN/CNN-RNN training, and a full computer vision pipeline.
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Full Stack Applications
+Modern apps built with React/Next.js, Node.js/Django, REST APIs, and PostgreSQL/MongoDB.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤝 Open Source
+GitHub workflow experience — pull requests, issue-based development, and collaborative coding.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Eleni-tadese&show_icons=true&hide_border=true&theme=dark&bg_color=0F0F0F&title_color=E3FF59&text_color=ffffff&icon_color=E3FF59" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Eleni-tadese&hide_border=true&background=0F0F0F&stroke=0F0F0F&ring=E3FF59&fire=E3FF59&currStreakLabel=E3FF59&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+
+<br/>
+
+<img width="65%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Eleni-tadese&layout=compact&hide_border=true&theme=dark&bg_color=0F0F0F&title_color=E3FF59&text_color=ffffff" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=100&section=footer" width="100%"/>
+
+<sub>Thanks for stopping by — feel free to explore my repos and reach out if you'd like to collaborate 👋</sub>
+</div>
