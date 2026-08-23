@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?weight=500&size=20&duration=3000&pause=800&color=E3FF59&background=0F0F0F&center=true&vCenter=true&width=650&height=70&lines=Building+intelligent%2C+scalable+web+systems;AI%2FML+%2B+Full+Stack+Engineering;Open+Source+Contributor;2nd+Place+%E2%80%94+AGT-HUB+Hackathon+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?weight=500&size=20&duration=3000&pause=800&color=E3FF59&background=0F0F0F&center=true&vCenter=true&width=650&height=70&lines=Building+intelligent%2C+scalable+web+systems;AI%2FML+%2B+Full+Stack+Engineering;Open+Source+Contributor;\alt="Typing SVG" />
 
 </div>
 
