@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=200&section=header&text=Eleni%20Tadese&fontSize=50&fontColor=E3FF59&fontAlignY=35&desc=Web%20Developer%20-%20CSE%20Student&descAlignY=55&descSize=16&descColor=E3FF59" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=200&section=header&text=Eleni%20Tadese&fontSize=50&fontColor=E3FF59&fontAlignY=35&desc=Web%20Developer&descAlignY=55&descSize=16&descColor=E3FF59" width="100%"/>
 
 <br/>
 
@@ -27,7 +27,9 @@
 
 ## About
 
-I'm a Computer Science & Engineering student and Web Developer — building web applications that solve real problems and turning complex ideas into clean, scalable solutions.
+
+I'm a Full Stack Developer with a growing focus on AI/ML — building web applications and intelligent systems that solve real problems, and turning complex ideas into clean, scalable solutions through open-source collaboration.
+
 
 <table>
 <tr>
