@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=200&section=header&text=Eleni%20Tadese&fontSize=50&fontColor=E3FF59&fontAlignY=35&desc=Web%20Developer&descAlignY=55&descSize=16&descColor=E3FF59" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2176C1&height=200&section=header&text=Eleni%20Tadese&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer&descAlignY=55&descSize=16&descColor=ffffff" width="100%"/>
 
 <br/>
 
@@ -126,7 +126,7 @@ Responsive apps including a Netflix clone and functional To-Do List built with R
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2176C1&height=100&section=footer" width="100%"/>
 
 <sub>Thanks for stopping by — feel free to explore my repos and reach out if you'd like to collaborate 👋</sub>
 </div>
