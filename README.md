@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?weight=500&size=20&duration=3000&pause=800&color=E3FF59&background=0F0F0F&center=true&vCenter=true&width=650&height=70&lines=Full Stack Developer;Building+scalable+web+systems" />
+<img src="https://readme-typing-svg.demolab.com?weight=500&size=20&duration=3000&pause=800&color=E3FF59&background=0F0F0F&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Developer;Building+scalable+web+systems" />
 
 </div>
 
@@ -35,16 +35,16 @@ I'm a Full Stack Developer with a growing focus on AI/ML — building web applic
 <tr>
 <td width="50%" valign="top">
 
-**🔭 Currently building**
+<b>🔭 Currently building</b><br/>
 Web apps, responsive UIs, and scalable software
-
-**🎯 Focus**
+<br/><br/>
+<b>🎯 Focus</b><br/>
 Frontend and Backend Web Development
 
 </td>
 <td width="50%" valign="top">
 
-**🌱 Learning**
+<b>🌱 Learning</b><br/>
 Cloud architecture, systems design, and competitive programming
 
 </td>
@@ -89,19 +89,19 @@ Cloud architecture, systems design, and competitive programming
 <tr>
 <td width="33%" valign="top">
 
-### Finot Member Management
+<h3>Finot Member Management</h3>
 Localized attendance tracking and member management application built collaboratively with conflict resolution and structured repository management.
 
 </td>
 <td width="33%" valign="top">
 
-### AGT-HUB Hackathon 2026
-2nd place finish — [view the repo](https://github.com/AGT-HUB-ASTU-Gibi-Gubaie/hackathon-2026-HIRUY). Built collaboratively under time pressure with a small team.
+<h3>AGT-HUB Hackathon 2026</h3>
+2nd place finish — <a href="https://github.com/AGT-HUB-ASTU-Gibi-Gubaie/hackathon-2026-HIRUY">view the repo</a>. Built collaboratively under time pressure with a small team.
 
 </td>
 <td width="33%" valign="top">
 
-### Modern Web Applications
+<h3>Modern Web Applications</h3>
 Responsive apps including a Netflix clone and functional To-Do List built with React, Node.js, REST APIs, and modern styling.
 
 </td>
